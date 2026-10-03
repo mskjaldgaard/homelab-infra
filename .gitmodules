@@ -1,0 +1,3 @@
+[submodule "homelable"]
+	path = homelable
+	url = git@github.com:mskjaldgaard/homelable.git
